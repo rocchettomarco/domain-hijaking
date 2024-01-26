@@ -1,0 +1,17 @@
+p {
+    color: #282827;
+}
+
+h1, h2 {
+    color: #ff1717 !important;
+}
+
+.custom-header {
+    text-align: center;
+    background-color: #00002b;
+}
+
+.header-img {
+    max-width: 15rem;
+    height: auto;
+}

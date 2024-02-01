@@ -4,7 +4,8 @@ layout: default
 
 ## REXASI-PRO domain has been hijacked!
 
-REXASI-PRO opted not to acquire this web domain, so *V-Research* - one of the partners - launched this website dedicated to ***raising awareness about domain hijacking*** and no one have been hacked here ;)
+The REXASI-PRO official webpage is hosted by one of the partners to guarantee a longer availability of the website.  
+We decided to register this domain to ***raise awareness on domain hijacking***. No one have been hacked here ;) and no one can abuse the **.eu** domain!
 
 You can visit the real [**REXASI-PRO website**](https://rexasi-pro.spindoxlabs.com/).
 

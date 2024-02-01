@@ -4,9 +4,9 @@ layout: default
 
 ## REXASI-PRO domain has been hijacked!
 
-The REXASI-PRO official webpage is hosted by one of the partners to guarantee a longer availability of the website. We decided to register this domain to ***raise awareness on domain hijacking***. No one have been hacked here ;) and no one can abuse the **rexasi-pro.eu** domain!
+The REXASI-PRO official webpage is hosted by one of the partners to guarantee a longer availability of the website. We decided to register this domain to ***raise awareness on domain hijacking***. No one have been hacked here ;) and no one can abuse the rexasi-pro.eu domain!
 
-You can visit the real **REXASI-PRO website** [HERE](https://rexasi-pro.spindoxlabs.com/).
+You can visit the real **REXASI-PRO website [HERE](https://rexasi-pro.spindoxlabs.com/)**.
 
 ## What is *Domain Hijacking* ?
 
